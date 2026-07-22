@@ -12,3 +12,10 @@
 ชื่อ: เฮอร์มีส
 อาชีพ: นักฆ่า
 ```
+
+<img width="761" height="1830" alt="508_202607152139002" src="https://github.com/user-attachments/assets/dea0ad15-1d8c-4e6f-a4f4-2315c8e42bc4" />
+
+```
+ชื่อ: ซุส
+อาชีพ: นักทำลายล้าง
+```
